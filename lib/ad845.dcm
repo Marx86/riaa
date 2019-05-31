@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD845
+D Single Ultra-Low Offset Voltage Operational Amplifier, DIP-8/SOIC-8
+K single opamp
+F http://www.analog.com/media/en/technical-documentation/data-sheets/OP07.pdf
+$ENDCMP
+#
+#End Doc Library
