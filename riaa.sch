@@ -394,8 +394,8 @@ L Device:R R19
 U 1 1 5CF246C4
 P 5100 1150
 F 0 "R19" H 5170 1196 50  0000 L CNN
-F 1 "510" H 5170 1105 50  0000 L CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal" V 5030 1150 50  0001 C CNN
+F 1 "1.2k" H 5170 1105 50  0000 L CNN
+F 2 "Resistors_ThroughHole:R_Axial_DIN0617_L17.0mm_D6.0mm_P20.32mm_Horizontal" V 5030 1150 50  0001 C CNN
 F 3 "~" H 5100 1150 50  0001 C CNN
 	1    5100 1150
 	1    0    0    -1  
@@ -405,8 +405,8 @@ L Device:R R20
 U 1 1 5CF2478A
 P 5100 3800
 F 0 "R20" H 5170 3846 50  0000 L CNN
-F 1 "510" H 5170 3755 50  0000 L CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal" V 5030 3800 50  0001 C CNN
+F 1 "1.2k" H 5170 3755 50  0000 L CNN
+F 2 "Resistors_ThroughHole:R_Axial_DIN0617_L17.0mm_D6.0mm_P20.32mm_Horizontal" V 5030 3800 50  0001 C CNN
 F 3 "~" H 5100 3800 50  0001 C CNN
 	1    5100 3800
 	1    0    0    -1  
@@ -924,8 +924,8 @@ L Device:R R21
 U 1 1 5CF786B9
 P 5100 4950
 F 0 "R21" H 5170 4996 50  0000 L CNN
-F 1 "510" H 5170 4905 50  0000 L CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal" V 5030 4950 50  0001 C CNN
+F 1 "1.2k" H 5170 4905 50  0000 L CNN
+F 2 "Resistors_ThroughHole:R_Axial_DIN0617_L17.0mm_D6.0mm_P20.32mm_Horizontal" V 5030 4950 50  0001 C CNN
 F 3 "~" H 5100 4950 50  0001 C CNN
 	1    5100 4950
 	1    0    0    -1  
@@ -935,8 +935,8 @@ L Device:R R22
 U 1 1 5CF786C0
 P 5100 7600
 F 0 "R22" H 5170 7646 50  0000 L CNN
-F 1 "510" H 5170 7555 50  0000 L CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal" V 5030 7600 50  0001 C CNN
+F 1 "1.2k" H 5170 7555 50  0000 L CNN
+F 2 "Resistors_ThroughHole:R_Axial_DIN0617_L17.0mm_D6.0mm_P20.32mm_Horizontal" V 5030 7600 50  0001 C CNN
 F 3 "~" H 5100 7600 50  0001 C CNN
 	1    5100 7600
 	1    0    0    -1  
